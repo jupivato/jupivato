@@ -6,9 +6,9 @@
 
 ## About Me
 
-I am a **Computer Engineering** student pursuing a **Brazil–France double degree** between **UNIFEI** (*Universidade Federal de Itajubá*) and **ENIB** (*École Nationale d'Ingénieurs de Brest*). My work sits at the intersection of **Generative AI**, **Robotics**, and **Algorithms** — spanning from production LLM architectures and Model Context Protocol (MCP) integrations to autonomous robot simulation in ROS and Gazebo.
+I am a **Computer Engineering** student pursuing a **Brazil–France double degree** between **UNIFEI** (*Universidade Federal de Itajubá*) and **ENIB** (*École Nationale d'Ingénieurs de Brest*). My main strengths lie at the intersection of **Generative AI**, **Robotics**, and **Algorithms**.
 
-Alongside my engineering degree, I am an R&D Intern in Generative AI at **Tech4humans**, conduct robotics and virtual reality research at **CERV**, and have been deeply involved in competitive programming (**SBC Programming Marathon — Regional Gold 2025**), cryptography research (**HawkSec**), and academic teaching (**PETTec**, **IESTI**, **TeenTech**, and **Fundação Asimo**).
+In AI, I work with **LLMs**, **RAG architectures**, **Model Context Protocol (MCP)** integrations, **guardrail systems**, and model evaluation/alignment. In robotics and simulation, I build and test autonomous behaviors using **Python**, **ROS**, and **Gazebo** on the **LIMO** mobile robot. I also have a strong background in **competitive programming** (SBC Regional Gold Medalist, 2025), **cryptography**, and **technical teaching**.
 
 <br/>
 
@@ -17,21 +17,6 @@ Alongside my engineering degree, I am an R&D Intern in Generative AI at **Tech4h
 <div align="center">
   <img src="./assets/journey-cards.svg" width="100%" alt="Academic and Research Journey" />
 </div>
-
-<br/>
-
-## Experience & Highlights
-
-### R&D Intern in Generative AI — Tech4humans
-Leading Generative AI research focused on **Model Context Protocol (MCP)** implementations and **LLM guardrail** optimization. Working on production architecture refinement, reliability testing, and authoring technical articles on LLM innovations.
-
-### AI Training & Alignment — Outlier AI & Data Annotation
-Developed gold-standard datasets, solved complex multi-language programming challenges, and refined LLMs via **RLHF** across coding, mathematics, factual accuracy, and cultural alignment.
-
-### Competitive Programming, Security & Teaching
-- **SBC Programming Marathon (2022 – Present):** Regional Gold Medalist (2025), focused on advanced algorithms and strategic problem solving under pressure.
-- **PETTec & HawkSec (UNIFEI):** Built **RAG systems** and healthcare AI research at PETTec; researched cryptographic systems and competed in **CTFs** with HawkSec.
-- **Teaching & Leadership:** Algorithms & Data Structures Teaching Assistant at IESTI (UNIFEI), Python instructor at TeenTech, and former Teaching Director at Fundação Asimo.
 
 <br/>
 
