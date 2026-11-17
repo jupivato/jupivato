@@ -76,9 +76,9 @@ Web application built with TypeScript, focused on clean structure and user-frien
 
 <div align="center">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="./assets/snake-dark.svg" />
-    <source media="(prefers-color-scheme: light)" srcset="./assets/snake-light.svg" />
-    <img alt="Contribution grid snake animation" src="./assets/snake-light.svg" />
+    <source media="(prefers-color-scheme: dark)" srcset="./assets/snake-dark-v2.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="./assets/snake-light-v2.svg" />
+    <img alt="Contribution grid snake animation" src="./assets/snake-light-v2.svg" />
   </picture>
 </div>
 
