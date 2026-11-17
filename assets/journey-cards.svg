@@ -1,0 +1,48 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 860 248" width="100%" height="248">
+  <defs>
+    <style>
+      .sans { font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Helvetica, Arial, sans-serif; }
+      .mono { font-family: ui-monospace, SFMono-Regular, Menlo, Monaco, Consolas, "Liberation Mono", "Courier New", monospace; }
+    </style>
+  </defs>
+
+  <!-- Card 1: UNIFEI -->
+  <g transform="translate(2, 2)">
+    <rect width="420" height="114" rx="12" fill="#0f172a" stroke="#1e293b" stroke-width="1.5" />
+    <rect x="20" y="22" width="46" height="46" rx="10" fill="#1e293b" stroke="#334155" stroke-width="1" />
+    <text x="43" y="51" text-anchor="middle" fill="#38bdf8" font-size="14" font-weight="700" class="mono">UNI</text>
+    <text x="82" y="38" fill="#f8fafc" font-size="17" font-weight="700" class="sans">UNIFEI</text>
+    <text x="82" y="58" fill="#94a3b8" font-size="13.5" class="sans">B.Sc. in Computer Engineering · Brazil</text>
+    <text x="20" y="92" fill="#64748b" font-size="12.5" class="mono">2022 – 2026  |  Algorithms TA · SBC Regional Gold 2025</text>
+  </g>
+
+  <!-- Card 2: ENIB -->
+  <g transform="translate(438, 2)">
+    <rect width="420" height="114" rx="12" fill="#0f172a" stroke="#1e293b" stroke-width="1.5" />
+    <rect x="20" y="22" width="46" height="46" rx="10" fill="#1e293b" stroke="#334155" stroke-width="1" />
+    <text x="43" y="51" text-anchor="middle" fill="#2dd4bf" font-size="14" font-weight="700" class="mono">ENIB</text>
+    <text x="82" y="38" fill="#f8fafc" font-size="17" font-weight="700" class="sans">ENIB</text>
+    <text x="82" y="58" fill="#94a3b8" font-size="13.5" class="sans">Engineering Double Degree · Brest, France</text>
+    <text x="20" y="92" fill="#64748b" font-size="12.5" class="mono">Exchange &amp; Dual Diploma  |  DELF B1 · CAE C1</text>
+  </g>
+
+  <!-- Card 3: CERV -->
+  <g transform="translate(2, 130)">
+    <rect width="420" height="114" rx="12" fill="#0f172a" stroke="#1e293b" stroke-width="1.5" />
+    <rect x="20" y="22" width="46" height="46" rx="10" fill="#1e293b" stroke="#334155" stroke-width="1" />
+    <text x="43" y="51" text-anchor="middle" fill="#38bdf8" font-size="13" font-weight="700" class="mono">CERV</text>
+    <text x="82" y="38" fill="#f8fafc" font-size="17" font-weight="700" class="sans">CERV</text>
+    <text x="82" y="58" fill="#94a3b8" font-size="13.5" class="sans">Centre Européen de Réalité Virtuelle</text>
+    <text x="20" y="92" fill="#64748b" font-size="12.5" class="mono">Robotics &amp; VR Research  |  Python · ROS · Gazebo · LIMO</text>
+  </g>
+
+  <!-- Card 4: PETTec -->
+  <g transform="translate(438, 130)">
+    <rect width="420" height="114" rx="12" fill="#0f172a" stroke="#1e293b" stroke-width="1.5" />
+    <rect x="20" y="22" width="46" height="46" rx="10" fill="#1e293b" stroke="#334155" stroke-width="1" />
+    <text x="43" y="51" text-anchor="middle" fill="#2dd4bf" font-size="14" font-weight="700" class="mono">PET</text>
+    <text x="82" y="38" fill="#f8fafc" font-size="17" font-weight="700" class="sans">PETTec · UNIFEI</text>
+    <text x="82" y="58" fill="#94a3b8" font-size="13.5" class="sans">Tutorial Education Program (Research &amp; Teaching)</text>
+    <text x="20" y="92" fill="#64748b" font-size="12.5" class="mono">RAG Systems · AI in Healthcare · LaTeX Courses</text>
+  </g>
+</svg>

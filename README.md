@@ -6,63 +6,45 @@
 
 ## About Me
 
-I am an engineering student pursuing a **Brazil–France double degree** between **UNIFEI** (*Universidade Federal de Itajubá*) and **ENIB** (*École Nationale d'Ingénieurs de Brest*). Throughout my academic path, I also took part in **PETTec** (*Tutorial Education Program*) at UNIFEI, collaborating on technical projects, teaching initiatives, and competitive programming.
+I am a **Computer Engineering** student pursuing a **Brazil–France double degree** between **UNIFEI** (*Universidade Federal de Itajubá*) and **ENIB** (*École Nationale d'Ingénieurs de Brest*). My work sits at the intersection of **Generative AI**, **Robotics**, and **Algorithms** — spanning from production LLM architectures and Model Context Protocol (MCP) integrations to autonomous robot simulation in ROS and Gazebo.
 
-Currently, I am conducting research at **CERV** (*Centre Européen de Réalité Virtuelle*), where I work primarily with **Python**, **ROS**, and the **Gazebo** simulator on the **LIMO** mobile robot. Beyond robotics and simulation, I enjoy exploring **Vision-Language Models**, **graph algorithms**, and **software engineering**.
+Alongside my engineering degree, I am an R&D Intern in Generative AI at **Tech4humans**, conduct robotics and virtual reality research at **CERV**, and have been deeply involved in competitive programming (**SBC Programming Marathon — Regional Gold 2025**), cryptography research (**HawkSec**), and academic teaching (**PETTec**, **IESTI**, **TeenTech**, and **Fundação Asimo**).
 
 <br/>
 
-## Academic & Research
+## Academic & Research Journey
 
 <div align="center">
-  <table>
-    <tr>
-      <td align="center" width="185">
-        <a href="https://unifei.edu.br/" target="_blank">
-          <img src="./assets/unifei.png" height="52" alt="UNIFEI" />
-        </a>
-        <br/><br/>
-        <b>UNIFEI</b><br/>
-        <sub>Home University · Brazil</sub>
-      </td>
-      <td align="center" width="185">
-        <a href="https://www.enib.fr/" target="_blank">
-          <img src="./assets/enib.png" height="52" alt="ENIB" />
-        </a>
-        <br/><br/>
-        <b>ENIB</b><br/>
-        <sub>Double Degree · France</sub>
-      </td>
-      <td align="center" width="185">
-        <a href="https://www.cerv.fr/" target="_blank">
-          <img src="./assets/cerv.png" height="52" alt="CERV" />
-        </a>
-        <br/><br/>
-        <b>CERV</b><br/>
-        <sub>Robotics &amp; VR Research</sub>
-      </td>
-      <td align="center" width="185">
-        <a href="https://unifei.edu.br/" target="_blank">
-          <img src="./assets/pettec.png" height="52" alt="PETTec" />
-        </a>
-        <br/><br/>
-        <b>PETTec</b><br/>
-        <sub>Former Member · UNIFEI</sub>
-      </td>
-    </tr>
-  </table>
+  <img src="./assets/journey-cards.svg" width="100%" alt="Academic and Research Journey" />
 </div>
+
+<br/>
+
+## Experience & Highlights
+
+### R&D Intern in Generative AI — Tech4humans
+Leading Generative AI research focused on **Model Context Protocol (MCP)** implementations and **LLM guardrail** optimization. Working on production architecture refinement, reliability testing, and authoring technical articles on LLM innovations.
+
+### AI Training & Alignment — Outlier AI & Data Annotation
+Developed gold-standard datasets, solved complex multi-language programming challenges, and refined LLMs via **RLHF** across coding, mathematics, factual accuracy, and cultural alignment.
+
+### Competitive Programming, Security & Teaching
+- **SBC Programming Marathon (2022 – Present):** Regional Gold Medalist (2025), focused on advanced algorithms and strategic problem solving under pressure.
+- **PETTec & HawkSec (UNIFEI):** Built **RAG systems** and healthcare AI research at PETTec; researched cryptographic systems and competed in **CTFs** with HawkSec.
+- **Teaching & Leadership:** Algorithms & Data Structures Teaching Assistant at IESTI (UNIFEI), Python instructor at TeenTech, and former Teaching Director at Fundação Asimo.
 
 <br/>
 
 ## Tech Stack
 
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=py,cpp,c,java,ts,latex,ros,linux,git" alt="Tech Stack" />
+  <img src="https://skillicons.dev/icons?i=py,cpp,c,java,ts,latex,ros,linux,git,vscode" alt="Tech Stack" />
   <br/><br/>
   <img src="https://img.shields.io/badge/Gazebo-FF6F00?style=flat-square&logo=gazebo&logoColor=white" alt="Gazebo" />
   <img src="https://img.shields.io/badge/LIMO_Robot-0F766E?style=flat-square&logo=robotframework&logoColor=white" alt="LIMO Robot" />
-  <img src="https://img.shields.io/badge/Jupyter-F37626?style=flat-square&logo=jupyter&logoColor=white" alt="Jupyter" />
+  <img src="https://img.shields.io/badge/LLMs_%C2%B7_RAG_%C2%B7_MCP-1E293B?style=flat-square" alt="LLMs RAG MCP" />
+  <img src="https://img.shields.io/badge/Guardrails_%C2%B7_LiteLLM-334155?style=flat-square" alt="Guardrails LiteLLM" />
+  <img src="https://img.shields.io/badge/SQL-0284C7?style=flat-square" alt="SQL" />
 </div>
 
 <br/>
@@ -120,13 +102,13 @@ Web application built with TypeScript, focused on clean structure and user-frien
 ## Connect
 
 <div align="center">
-  <a href="https://www.linkedin.com/in/YOUR_LINKEDIN" target="_blank">
+  <a href="https://www.linkedin.com/in/juliapivato" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
   <a href="http://lattes.cnpq.br/YOUR_LATTES_ID" target="_blank">
     <img src="https://img.shields.io/badge/Lattes-1E3A8A?style=flat-square&logo=googlescholar&logoColor=white" alt="Lattes" />
   </a>
-  <a href="mailto:your.email@example.com">
+  <a href="mailto:juliapivato04@gmail.com">
     <img src="https://img.shields.io/badge/Email-334155?style=flat-square&logo=gmail&logoColor=white" alt="Email" />
   </a>
 </div>
