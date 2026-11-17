@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="./assets/hero-terminal.svg" width="100%" alt="Júlia Pivato — Terminal Profile" />
+  <img src="./assets/hero-terminal-blue.svg" width="100%" alt="Júlia Pivato — Terminal Profile" />
 </div>
 
 <br/>
@@ -8,14 +8,14 @@
 
 I am a **Computer Engineering** student pursuing a **Brazil–France double degree** between **UNIFEI** (*Universidade Federal de Itajubá*) and **ENIB** (*École Nationale d'Ingénieurs de Brest*). My main strengths lie at the intersection of **Generative AI**, **Robotics**, and **Algorithms**.
 
-In AI, I work with **LLMs**, **RAG architectures**, **Model Context Protocol (MCP)** integrations, **guardrail systems**, and model evaluation/alignment. In robotics and simulation, I build and test autonomous behaviors using **Python**, **ROS**, and **Gazebo** on the **LIMO** mobile robot. I also have a strong background in **competitive programming** (SBC Regional Gold Medalist, 2025), **cryptography**, and **technical teaching**.
+In AI, I work with **LLMs**, **RAG architectures**, **Model Context Protocol (MCP)** integrations, **guardrail systems**, and model evaluation/alignment. In robotics and simulation, I build and test autonomous behaviors using **Python**, **ROS**, and **Gazebo** on the **LIMO** mobile robot. I also have a strong background in **competitive programming** (SBC Regional Gold Medalist, 2025), **cryptography**, and **technical teaching** (including **PETTEC** at UNIFEI).
 
 <br/>
 
 ## Academic & Research Journey
 
 <div align="center">
-  <img src="./assets/journey-timeline.svg" width="100%" alt="Academic and Research Journey" />
+  <img src="./assets/journey-timeline-blue.svg" width="100%" alt="Academic and Research Journey" />
 </div>
 
 <br/>
