@@ -15,7 +15,7 @@ In AI, I work with **LLMs**, **RAG architectures**, **Model Context Protocol (MC
 ## Academic & Research Journey
 
 <div align="center">
-  <img src="./assets/journey-cards.svg?v=2" width="100%" alt="Academic and Research Journey" />
+  <img src="./assets/journey-timeline.svg" width="100%" alt="Academic and Research Journey" />
 </div>
 
 <br/>
